@@ -1,2 +1,8 @@
 jksdjflkjfasd
+<<<<<<< HEAD
 git checkout 4
+=======
+git branch dev3
+
+dev
+>>>>>>> dev
